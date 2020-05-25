@@ -1,0 +1,1 @@
+Path-to-python-installation\python.exe "path-to-app\app.py"

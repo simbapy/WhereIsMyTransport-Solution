@@ -16,8 +16,9 @@
    ## Step4
    - If you wish to create a schedule of when and/or the frequency to run the service, open the architecture diagram pdf and follow the instructions to setup a schedule using Windows Task Scheduler
 
-    ***app.bat should look something like this:***
-    *C:\Users\User\AppData\Local\Continuum\anaconda3\python.exe "C:\Users\User\Desktop\Whereismytransport\app.py"*
+***app.bat should look something like this:***
+    
+    C:\Users\User\AppData\Local\Continuum\anaconda3\python.exe "C:\Users\User\Desktop\Whereismytransport\app.py"
 
    - You can run the app anytime by simpling double clicking app.bat. All the modules used by the app are built in with Python so no need to install anything else. If you're facing trouble with app.bat, simply open a terminal window, navigate to the directory where app.py is located and then run *python app.py*.
    
